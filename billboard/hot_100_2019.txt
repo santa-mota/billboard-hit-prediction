@@ -1,101 +1,101 @@
-position,artist,song
-Old Town Road|Lil Nas X  and  Billy Ray Cyrus|1
-Sunflower (Spider-Man: Into The Spider-Verse)|Post Malone and  Swae Lee|2
-Without Me|Halsey|3
-Bad Guy|Billie Eilish|4
-Wow.|Post Malone|5
-Happier|Marshmello and  Bastille|6
-7 Rings|Ariana Grande|7
-Talk|Khalid|8
-Sicko Mode|Travis Scott|9
-Sucker|Jonas Brothers|10
-High Hopes|Panic! At The Disco|11
-Thank U, Next|Ariana Grande|12
-Truth Hurts|Lizzo|13
-Dancing With A Stranger|Sam Smith and  Normani|14
-Senorita|Shawn Mendes and  Camila Cabello|15
-I Don't Care|Ed Sheeran and  Justin Bieber|16
-Eastside|benny blanco, Halsey and  Khalid|17
-Going Bad|Meek Mill  and  Drake|18
-Shallow|Lady Gaga and  Bradley Cooper|19
-Better|Khalid|20
-No Guidance|Chris Brown  and  Drake|21
-Girls Like You|Maroon 5  and  Cardi B|22
-Sweet But Psycho|Ava Max|23
-Suge|DaBaby|24
-Middle Child|J. Cole|25
-Drip Too Hard|Lil Baby and  Gunna|26
-Someone You Loved|Lewis Capaldi|27
-Ran$om|Lil Tecca|28
-If I Can't Have You|Shawn Mendes|29
-Goodbyes|Post Malone  and  Young Thug|30
-ZEZE|Kodak Black  and  Travis Scott and  Offset|31
-Better Now|Post Malone|32
-Youngblood|5 Seconds Of Summer|33
-Money In The Grave|Drake  and  Rick Ross|34
-Speechless|Dan + Shay|35
-Break Up With Your Girlfriend, I'm Bored|Ariana Grande|36
-Please Me|Cardi B and  Bruno Mars|37
-Money|Cardi B|38
-You Need To Calm Down|Taylor Swift|39
-Panini|Lil Nas X|40
-Look Back At It|A Boogie Wit da Hoodie|41
-A Lot|21 Savage|42
-ME!|Taylor Swift  and  Brendon Urie|43
-MIA|Bad Bunny  and  Drake|44
-Pop Out|Polo G  and  Lil Tjay|45
-Beautiful Crazy|Luke Combs|46
-Thotiana|Blueface|47
-Lucid Dreams|Juice WRLD|48
-Mo Bamba|Sheck Wes|49
-Beautiful People|Ed Sheeran  and  Khalid|50
-Wake Up In The Sky|Gucci Mane X Bruno Mars X Kodak Black|51
-Whiskey Glasses|Morgan Wallen|52
-God's Country|Blake Shelton|53
-Be Alright|Dean Lewis|54
-Pure Water|Mustard and  Migos|55
-The Git Up|Blanco Brown|56
-Taki Taki|DJ Snake  and  Selena Gomez, Ozuna and  Cardi B|57
-Close To Me|Ellie Goulding X Diplo  and  Swae Lee|58
-Envy Me|Calboy|59
-You Say|Lauren Daigle|60
-Hey Look Ma, I Made It|Panic! At The Disco|61
-Circles|Post Malone|62
-Beer Never Broke My Heart|Luke Combs|63
-The London|Young Thug, J. Cole and  Travis Scott|64
-Con Calma|Daddy Yankee and  Katy Perry  and  Snow|65
-Murder On My Mind|YNW Melly|66
-When The Party's Over|Billie Eilish|67
-Act Up|City Girls|68
-I Like It|Cardi B, Bad Bunny and  J Balvin|69
-Trampoline|SHAED|70
-Leave Me Alone|Flipp Dinero|71
-Breathin|Ariana Grande|72
-Bury A Friend|Billie Eilish|73
-Close Friends|Lil Baby|74
-Baby Shark|Pinkfong|75
-My Type|Saweetie|76
-Worth It|YK Osiris|77
-Only Human|Jonas Brothers|78
-Knockin' Boots|Luke Bryan|79
-Trip|Ella Mai|80
-Rumor|Lee Brice|81
-Swervin|A Boogie Wit da Hoodie  and  6ix9ine|82
-How Do You Sleep?|Sam Smith|83
-Baby|Lil Baby and  DaBaby|84
-Look What God Gave Her|Thomas Rhett|85
-Good As You|Kane Brown|86
-Clout|Offset  and  Cardi B|87
-Love Lies|Khalid and  Normani|88
-One Thing Right|Marshmello and  Kane Brown|89
-Cash Shit|Megan Thee Stallion  and  DaBaby|90
-Tequila|Dan + Shay|91
-Shotta Flow|NLE Choppa|92
-Hot Girl Summer|Megan Thee Stallion, Nicki Minaj and  Ty Dolla $ign|93
-Talk You Out Of It|Florida Georgia Line|94
-Beautiful|Bazzi  and  Camila Cabello|95
-Eyes On You|Chase Rice|96
-All To Myself|Dan + Shay|97
-Boyfriend|Ariana Grande and  Social House|98
-Walk Me Home|P!nk|99
-Robbery|Juice WRLD|100
+Position,Artist,Song Title
+1|Lil Nas X  and  Billy Ray Cyrus|Old Town Road
+2|Post Malone and  Swae Lee|Sunflower (Spider-Man: Into The Spider-Verse)
+3|Halsey|Without Me
+4|Billie Eilish|Bad Guy
+5|Post Malone|Wow.
+6|Marshmello and  Bastille|Happier
+7|Ariana Grande|7 Rings
+8|Khalid|Talk
+9|Travis Scott|Sicko Mode
+10|Jonas Brothers|Sucker
+11|Panic! At The Disco|High Hopes
+12|Ariana Grande|Thank U, Next
+13|Lizzo|Truth Hurts
+14|Sam Smith and  Normani|Dancing With A Stranger
+15|Shawn Mendes and  Camila Cabello|Senorita
+16|Ed Sheeran and  Justin Bieber|I Don't Care
+17|benny blanco, Halsey and  Khalid|Eastside
+18|Meek Mill  and  Drake|Going Bad
+19|Lady Gaga and  Bradley Cooper|Shallow
+20|Khalid|Better
+21|Chris Brown  and  Drake|No Guidance
+22|Maroon 5  and  Cardi B|Girls Like You
+23|Ava Max|Sweet But Psycho
+24|DaBaby|Suge
+25|J. Cole|Middle Child
+26|Lil Baby and  Gunna|Drip Too Hard
+27|Lewis Capaldi|Someone You Loved
+28|Lil Tecca|Ran$om
+29|Shawn Mendes|If I Can't Have You
+30|Post Malone  and  Young Thug|Goodbyes
+31|Kodak Black  and  Travis Scott and  Offset|ZEZE
+32|Post Malone|Better Now
+33|5 Seconds Of Summer|Youngblood
+34|Drake  and  Rick Ross|Money In The Grave
+35|Dan + Shay|Speechless
+36|Ariana Grande|Break Up With Your Girlfriend, I'm Bored
+37|Cardi B and  Bruno Mars|Please Me
+38|Cardi B|Money
+39|Taylor Swift|You Need To Calm Down
+40|Lil Nas X|Panini
+41|A Boogie Wit da Hoodie|Look Back At It
+42|21 Savage|A Lot
+43|Taylor Swift  and  Brendon Urie|ME!
+44|Bad Bunny  and  Drake|MIA
+45|Polo G  and  Lil Tjay|Pop Out
+46|Luke Combs|Beautiful Crazy
+47|Blueface|Thotiana
+48|Juice WRLD|Lucid Dreams
+49|Sheck Wes|Mo Bamba
+50|Ed Sheeran  and  Khalid|Beautiful People
+51|Gucci Mane X Bruno Mars X Kodak Black|Wake Up In The Sky
+52|Morgan Wallen|Whiskey Glasses
+53|Blake Shelton|God's Country
+54|Dean Lewis|Be Alright
+55|Mustard and  Migos|Pure Water
+56|Blanco Brown|The Git Up
+57|DJ Snake  and  Selena Gomez, Ozuna and  Cardi B|Taki Taki
+58|Ellie Goulding X Diplo  and  Swae Lee|Close To Me
+59|Calboy|Envy Me
+60|Lauren Daigle|You Say
+61|Panic! At The Disco|Hey Look Ma, I Made It
+62|Post Malone|Circles
+63|Luke Combs|Beer Never Broke My Heart
+64|Young Thug, J. Cole and  Travis Scott|The London
+65|Daddy Yankee and  Katy Perry  and  Snow|Con Calma
+66|YNW Melly|Murder On My Mind
+67|Billie Eilish|When The Party's Over
+68|City Girls|Act Up
+69|Cardi B, Bad Bunny and  J Balvin|I Like It
+70|SHAED|Trampoline
+71|Flipp Dinero|Leave Me Alone
+72|Ariana Grande|Breathin
+73|Billie Eilish|Bury A Friend
+74|Lil Baby|Close Friends
+75|Pinkfong|Baby Shark
+76|Saweetie|My Type
+77|YK Osiris|Worth It
+78|Jonas Brothers|Only Human
+79|Luke Bryan|Knockin' Boots
+80|Ella Mai|Trip
+81|Lee Brice|Rumor
+82|A Boogie Wit da Hoodie  and  6ix9ine|Swervin
+83|Sam Smith|How Do You Sleep?
+84|Lil Baby and  DaBaby|Baby
+85|Thomas Rhett|Look What God Gave Her
+86|Kane Brown|Good As You
+87|Offset  and  Cardi B|Clout
+88|Khalid and  Normani|Love Lies
+89|Marshmello and  Kane Brown|One Thing Right
+90|Megan Thee Stallion  and  DaBaby|Cash Shit
+91|Dan + Shay|Tequila
+92|NLE Choppa|Shotta Flow
+93|Megan Thee Stallion, Nicki Minaj and  Ty Dolla $ign|Hot Girl Summer
+94|Florida Georgia Line|Talk You Out Of It
+95|Bazzi  and  Camila Cabello|Beautiful
+96|Chase Rice|Eyes On You
+97|Dan + Shay|All To Myself
+98|Ariana Grande and  Social House|Boyfriend
+99|P!nk|Walk Me Home
+100|Juice WRLD|Robbery

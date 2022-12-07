@@ -1,101 +1,101 @@
-position,artist,song
-Heat Waves|Glass Animals|1
-As It Was|Harry Styles|2
-Stay|The Kid LAROI and  Justin Bieber|3
-Easy On Me|Adele|4
-Shivers|Ed Sheeran|5
-First Class|Jack Harlow|6
-Big Energy|Latto|7
-Ghost|Justin Bieber|8
-Super Gremlin|Kodak Black|9
-Cold Heart (PNAU Remix)|Elton John and  Dua Lipa|10
-Wait For U|Future  and  Drake and  Tems|11
-About Damn Time|Lizzo|12
-Bad Habits|Ed Sheeran|13
-Thats What I Want|Lil Nas X|14
-Enemy|Imagine Dragons X JID|15
-Industry Baby|Lil Nas X and  Jack Harlow|16
-abcdefu|GAYLE|17
-Need To Know|Doja Cat|18
-Wasted On You|Morgan Wallen|19
-Me Porto Bonito|Bad Bunny and  Chencho Corleone|20
-Woman|Doja Cat|21
-Titi Me Pregunto|Bad Bunny|22
-Running Up That Hill (A Deal With God)|Kate Bush|23
-We Don't Talk About Bruno|Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and  Encanto Cast|24
-Late Night Talking|Harry Styles|25
-I Like You (A Happier Song)|Post Malone  and  Doja Cat|26
-You Proof|Morgan Wallen|27
-Bad Habit|Steve Lacy|28
-Sunroof|Nicky Youre and  dazy|29
-One Right Now|Post Malone and  The Weeknd|30
-Good 4 U|Olivia Rodrigo|31
-Numb Little Bug|Em Beihold|32
-Jimmy Cooks|Drake  and  21 Savage|33
-'Til You Can't|Cody Johnson|34
-Fancy Like|Walker Hayes|35
-The Kind Of Love We Make|Luke Combs|36
-I Ain't Worried|OneRepublic|37
-Break My Soul|Beyonce|38
-Something In The Orange|Zach Bryan|39
-Save Your Tears|The Weeknd and  Ariana Grande|40
-Smokin Out The Window|Silk Sonic (Bruno Mars and  Anderson .Paak)|41
-Levitating|Dua Lipa|42
-In A Minute|Lil Baby|43
-Moscow Mule|Bad Bunny|44
-You Right|Doja Cat and  The Weeknd|45
-She Had Me At Heads Carolina|Cole Swindell|46
-Vegas|Doja Cat|47
-Pushin P|Gunna and  Future  and  Young Thug|48
-Buy Dirt|Jordan Davis  and  Luke Bryan|49
-I Hate U|SZA|50
-Boyfriend|Dove Cameron|51
-Glimpse Of Us|Joji|52
-Surface Pressure|Jessica Darrow|53
-Fall In Love|Bailey Zimmerman|54
-Love Nwantiti (Ah Ah Ah)|CKay|55
-Super Freaky Girl|Nicki Minaj|56
-Hrs And Hrs|Muni Long|57
-Sand In My Boots|Morgan Wallen|58
-MAMIII|Becky G X Karol G|59
-Knife Talk|Drake  and  21 Savage and  Project Pat|60
-AA|Walker Hayes|61
-Sweetest Pie|Megan Thee Stallion and  Dua Lipa|62
-Provenza|Karol G|63
-Essence|Wizkid  and  Justin Bieber and  Tems|64
-All I Want For Christmas Is You|Mariah Carey|65
-Bam Bam|Camila Cabello  and  Ed Sheeran|66
-5 Foot 9|Tyler Hubbard|67
-Get Into It (Yuh)|Doja Cat|68
-Efecto|Bad Bunny|69
-Rock And A Hard Place|Bailey Zimmerman|70
-Doin' This|Luke Combs|71
-Oh My God|Adele|72
-Better Days|NEIKED X Mae Muller X Polo G|73
-Meet Me At Our Spot|THE ANXIETY: WILLOW and  Tyler Cole|74
-Fingers Crossed|Lauren Spencer-Smith|75
-All Too Well (Taylor's Version)|Taylor Swift|76
-Party|Bad Bunny and  Rauw Alejandro|77
-Despues de La Playa|Bad Bunny|78
-You Should Probably Leave|Chris Stapleton|79
-Rockin' Around The Christmas Tree|Brenda Lee|80
-Broadway Girls|Lil Durk  and  Morgan Wallen|81
-Take My Name|Parmalee|82
-What Happened To Virgil|Lil Durk  and  Gunna|83
-Puffin On Zootiez|Future|84
-Like I Love Country Music|Kane Brown|85
-Jingle Bell Rock|Bobby Helms|86
-Ojitos Lindos|Bad Bunny and  Bomba Estereo|87
-Trouble With A Heartbreak|Jason Aldean|88
-A Holly Jolly Christmas|Burl Ives|89
-Kiss Me More|Doja Cat  and  SZA|90
-She Likes It|Russell Dickerson and  Jake Scott|91
-Never Say Never|Cole Swindell / Lainey Wilson|92
-Damn Strait|Scotty McCreery|93
-She's All I Wanna Be|Tate McRae|94
-Last Night Lonely|Jon Pardi|95
-Flower Shops|ERNEST  and  Morgan Wallen|96
-To The Moon!|JNR CHOI and  Sam Tompkins|97
-Unholy|Sam Smith and  Kim Petras|98
-One Mississippi|Kane Brown|99
-Circles Around This Town|Maren Morris|100
+Position,Artist,Song Title
+1|Glass Animals|Heat Waves
+2|Harry Styles|As It Was
+3|The Kid LAROI and  Justin Bieber|Stay
+4|Adele|Easy On Me
+5|Ed Sheeran|Shivers
+6|Jack Harlow|First Class
+7|Latto|Big Energy
+8|Justin Bieber|Ghost
+9|Kodak Black|Super Gremlin
+10|Elton John and  Dua Lipa|Cold Heart (PNAU Remix)
+11|Future  and  Drake and  Tems|Wait For U
+12|Lizzo|About Damn Time
+13|Ed Sheeran|Bad Habits
+14|Lil Nas X|Thats What I Want
+15|Imagine Dragons X JID|Enemy
+16|Lil Nas X and  Jack Harlow|Industry Baby
+17|GAYLE|abcdefu
+18|Doja Cat|Need To Know
+19|Morgan Wallen|Wasted On You
+20|Bad Bunny and  Chencho Corleone|Me Porto Bonito
+21|Doja Cat|Woman
+22|Bad Bunny|Titi Me Pregunto
+23|Kate Bush|Running Up That Hill (A Deal With God)
+24|Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and  Encanto Cast|We Don't Talk About Bruno
+25|Harry Styles|Late Night Talking
+26|Post Malone  and  Doja Cat|I Like You (A Happier Song)
+27|Morgan Wallen|You Proof
+28|Steve Lacy|Bad Habit
+29|Nicky Youre and  dazy|Sunroof
+30|Post Malone and  The Weeknd|One Right Now
+31|Olivia Rodrigo|Good 4 U
+32|Em Beihold|Numb Little Bug
+33|Drake  and  21 Savage|Jimmy Cooks
+34|Cody Johnson|'Til You Can't
+35|Walker Hayes|Fancy Like
+36|Luke Combs|The Kind Of Love We Make
+37|OneRepublic|I Ain't Worried
+38|Beyonce|Break My Soul
+39|Zach Bryan|Something In The Orange
+40|The Weeknd and  Ariana Grande|Save Your Tears
+41|Silk Sonic (Bruno Mars and  Anderson .Paak)|Smokin Out The Window
+42|Dua Lipa|Levitating
+43|Lil Baby|In A Minute
+44|Bad Bunny|Moscow Mule
+45|Doja Cat and  The Weeknd|You Right
+46|Cole Swindell|She Had Me At Heads Carolina
+47|Doja Cat|Vegas
+48|Gunna and  Future  and  Young Thug|Pushin P
+49|Jordan Davis  and  Luke Bryan|Buy Dirt
+50|SZA|I Hate U
+51|Dove Cameron|Boyfriend
+52|Joji|Glimpse Of Us
+53|Jessica Darrow|Surface Pressure
+54|Bailey Zimmerman|Fall In Love
+55|CKay|Love Nwantiti (Ah Ah Ah)
+56|Nicki Minaj|Super Freaky Girl
+57|Muni Long|Hrs And Hrs
+58|Morgan Wallen|Sand In My Boots
+59|Becky G X Karol G|MAMIII
+60|Drake  and  21 Savage and  Project Pat|Knife Talk
+61|Walker Hayes|AA
+62|Megan Thee Stallion and  Dua Lipa|Sweetest Pie
+63|Karol G|Provenza
+64|Wizkid  and  Justin Bieber and  Tems|Essence
+65|Mariah Carey|All I Want For Christmas Is You
+66|Camila Cabello  and  Ed Sheeran|Bam Bam
+67|Tyler Hubbard|5 Foot 9
+68|Doja Cat|Get Into It (Yuh)
+69|Bad Bunny|Efecto
+70|Bailey Zimmerman|Rock And A Hard Place
+71|Luke Combs|Doin' This
+72|Adele|Oh My God
+73|NEIKED X Mae Muller X Polo G|Better Days
+74|THE ANXIETY: WILLOW and  Tyler Cole|Meet Me At Our Spot
+75|Lauren Spencer-Smith|Fingers Crossed
+76|Taylor Swift|All Too Well (Taylor's Version)
+77|Bad Bunny and  Rauw Alejandro|Party
+78|Bad Bunny|Despues de La Playa
+79|Chris Stapleton|You Should Probably Leave
+80|Brenda Lee|Rockin' Around The Christmas Tree
+81|Lil Durk  and  Morgan Wallen|Broadway Girls
+82|Parmalee|Take My Name
+83|Lil Durk  and  Gunna|What Happened To Virgil
+84|Future|Puffin On Zootiez
+85|Kane Brown|Like I Love Country Music
+86|Bobby Helms|Jingle Bell Rock
+87|Bad Bunny and  Bomba Estereo|Ojitos Lindos
+88|Jason Aldean|Trouble With A Heartbreak
+89|Burl Ives|A Holly Jolly Christmas
+90|Doja Cat  and  SZA|Kiss Me More
+91|Russell Dickerson and  Jake Scott|She Likes It
+92|Cole Swindell / Lainey Wilson|Never Say Never
+93|Scotty McCreery|Damn Strait
+94|Tate McRae|She's All I Wanna Be
+95|Jon Pardi|Last Night Lonely
+96|ERNEST  and  Morgan Wallen|Flower Shops
+97|JNR CHOI and  Sam Tompkins|To The Moon!
+98|Sam Smith and  Kim Petras|Unholy
+99|Kane Brown|One Mississippi
+100|Maren Morris|Circles Around This Town

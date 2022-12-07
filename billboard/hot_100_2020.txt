@@ -1,101 +1,101 @@
-position,artist,song
-Blinding Lights|The Weeknd|1
-Circles|Post Malone|2
-The Box|Roddy Ricch|3
-Don't Start Now|Dua Lipa|4
-Rockstar|DaBaby  and  Roddy Ricch|5
-Adore You|Harry Styles|6
-Life Is Good|Future  and  Drake|7
-Memories|Maroon 5|8
-The Bones|Maren Morris|9
-Someone You Loved|Lewis Capaldi|10
-Say So|Doja Cat|11
-I Hope|Gabby Barrett  and  Charlie Puth|12
-Whats Poppin|Jack Harlow  and  DaBaby, Tory Lanez and  Lil Wayne|13
-Dance Monkey|Tones And I|14
-Savage|Megan Thee Stallion|15
-Roxanne|Arizona Zervas|16
-Intentions|Justin Bieber  and  Quavo|17
-Everything I Wanted|Billie Eilish|18
-Roses|SAINt JHN|19
-Watermelon Sugar|Harry Styles|20
-Before You Go|Lewis Capaldi|21
-Falling|Trevor Daniel|22
-10,000 Hours|Dan + Shay and  Justin Bieber|23
-WAP|Cardi B  and  Megan Thee Stallion|24
-Ballin'|Mustard and  Roddy Ricch|25
-Hot Girl Bummer|blackbear|26
-Blueberry Faygo|Lil Mosey|27
-Heartless|The Weeknd|28
-BOP|DaBaby|29
-Lose You To Love Me|Selena Gomez|30
-Good As Hell|Lizzo|31
-Toosie Slide|Drake|32
-Break My Heart|Dua Lipa|33
-Chasin' You|Morgan Wallen|34
-Savage Love (Laxed - Siren Beat)|Jawsh 685 x Jason Derulo|35
-No Guidance|Chris Brown  and  Drake|36
-My Oh My|Camila Cabello  and  DaBaby|37
-Dynamite|BTS|38
-Go Crazy|Chris Brown and  Young Thug|39
-High Fashion|Roddy Ricch  and  Mustard|40
-Laugh Now Cry Later|Drake  and  Lil Durk|41
-Woah|Lil Baby|42
-Death Bed|Powfu  and  beabadoobee|43
-Senorita|Shawn Mendes and  Camila Cabello|44
-HIGHEST IN THE ROOM|Travis Scott|45
-Bad Guy|Billie Eilish|46
-Mood|24kGoldn  and  iann dior|47
-Rain On Me|Lady Gaga and  Ariana Grande|48
-For The Night|Pop Smoke  and  Lil Baby and  DaBaby|49
-RITMO (Bad Boys For Life)|Black Eyed Peas X J Balvin|50
-Heart On Ice|Rod Wave|51
-Nobody But You|Blake Shelton Duet With Gwen Stefani|52
-Trampoline|SHAED|53
-Come & Go|Juice WRLD x Marshmello|54
-Truth Hurts|Lizzo|55
-If The World Was Ending|JP Saxe  and  Julia Michaels|56
-We Paid|Lil Baby and  42 Dugg|57
-Yummy|Justin Bieber|58
-One Man Band|Old Dominion|59
-Got What I Got|Jason Aldean|60
-Sunday Best|Surfaces|61
-Godzilla|Eminem  and  Juice WRLD|62
-Bandit|Juice WRLD and  YoungBoy Never Broke Again|63
-Party Girl|StaySolidRocky|64
-Die From A Broken Heart|Maddie and  Tae|65
-Popstar|DJ Khaled  and  Drake|66
-All I Want For Christmas Is You|Mariah Carey|67
-One Of Them Girls|Lee Brice|68
-Hard To Forget|Sam Hunt|69
-One Margarita|Luke Bryan|70
-Panini|Lil Nas X|71
-Hot|Young Thug  and  Gunna|72
-I Hope You're Happy Now|Carly Pearce and  Lee Brice|73
-Emotionally Scarred|Lil Baby|74
-Suicidal|YNW Melly and  Juice WRLD|75
-The Bigger Picture|Lil Baby|76
-Only Human|Jonas Brothers|77
-The Woo|Pop Smoke  and  50 Cent and  Roddy Ricch|78
-Sum 2 Prove|Lil Baby|79
-Stuck With U|Ariana Grande and  Justin Bieber|80
-Mood Swings|Pop Smoke  and  Lil Tjay|81
-You Should Be Sad|Halsey|82
-Dior|Pop Smoke|83
-Supalonely|BENEE  and  Gus Dapperton|84
-Even Though I'm Leaving|Luke Combs|85
-The Scotts|THE SCOTTS, Travis Scott and  Kid Cudi|86
-Juicy|Doja Cat and  Tyga|87
-Be Like That|Kane Brown With Swae Lee and  Khalid|88
-Homesick|Kane Brown|89
-Rags2Riches|Rod Wave  and  ATR Son Son|90
-Bluebird|Miranda Lambert|91
-Wishing Well|Juice WRLD|92
-Does To Me|Luke Combs  and  Eric Church|93
-P*$$y Fairy (OTW)|Jhene Aiko|94
-ily|Surf Mesa  and  Emilee|95
-More Than My Hometown|Morgan Wallen|96
-Lovin' On You|Luke Combs|97
-Said Sum|Moneybagg Yo|98
-Slide|H.E.R.  and  YG|99
-Walk Em Down|NLE Choppa  and  Roddy Ricch|100
+Position,Artist,Song Title
+1|The Weeknd|Blinding Lights
+2|Post Malone|Circles
+3|Roddy Ricch|The Box
+4|Dua Lipa|Don't Start Now
+5|DaBaby  and  Roddy Ricch|Rockstar
+6|Harry Styles|Adore You
+7|Future  and  Drake|Life Is Good
+8|Maroon 5|Memories
+9|Maren Morris|The Bones
+10|Lewis Capaldi|Someone You Loved
+11|Doja Cat|Say So
+12|Gabby Barrett  and  Charlie Puth|I Hope
+13|Jack Harlow  and  DaBaby, Tory Lanez and  Lil Wayne|Whats Poppin
+14|Tones And I|Dance Monkey
+15|Megan Thee Stallion|Savage
+16|Arizona Zervas|Roxanne
+17|Justin Bieber  and  Quavo|Intentions
+18|Billie Eilish|Everything I Wanted
+19|SAINt JHN|Roses
+20|Harry Styles|Watermelon Sugar
+21|Lewis Capaldi|Before You Go
+22|Trevor Daniel|Falling
+23|Dan + Shay and  Justin Bieber|10,000 Hours
+24|Cardi B  and  Megan Thee Stallion|WAP
+25|Mustard and  Roddy Ricch|Ballin'
+26|blackbear|Hot Girl Bummer
+27|Lil Mosey|Blueberry Faygo
+28|The Weeknd|Heartless
+29|DaBaby|BOP
+30|Selena Gomez|Lose You To Love Me
+31|Lizzo|Good As Hell
+32|Drake|Toosie Slide
+33|Dua Lipa|Break My Heart
+34|Morgan Wallen|Chasin' You
+35|Jawsh 685 x Jason Derulo|Savage Love (Laxed - Siren Beat)
+36|Chris Brown  and  Drake|No Guidance
+37|Camila Cabello  and  DaBaby|My Oh My
+38|BTS|Dynamite
+39|Chris Brown and  Young Thug|Go Crazy
+40|Roddy Ricch  and  Mustard|High Fashion
+41|Drake  and  Lil Durk|Laugh Now Cry Later
+42|Lil Baby|Woah
+43|Powfu  and  beabadoobee|Death Bed
+44|Shawn Mendes and  Camila Cabello|Senorita
+45|Travis Scott|HIGHEST IN THE ROOM
+46|Billie Eilish|Bad Guy
+47|24kGoldn  and  iann dior|Mood
+48|Lady Gaga and  Ariana Grande|Rain On Me
+49|Pop Smoke  and  Lil Baby and  DaBaby|For The Night
+50|Black Eyed Peas X J Balvin|RITMO (Bad Boys For Life)
+51|Rod Wave|Heart On Ice
+52|Blake Shelton Duet With Gwen Stefani|Nobody But You
+53|SHAED|Trampoline
+54|Juice WRLD x Marshmello|Come & Go
+55|Lizzo|Truth Hurts
+56|JP Saxe  and  Julia Michaels|If The World Was Ending
+57|Lil Baby and  42 Dugg|We Paid
+58|Justin Bieber|Yummy
+59|Old Dominion|One Man Band
+60|Jason Aldean|Got What I Got
+61|Surfaces|Sunday Best
+62|Eminem  and  Juice WRLD|Godzilla
+63|Juice WRLD and  YoungBoy Never Broke Again|Bandit
+64|StaySolidRocky|Party Girl
+65|Maddie and  Tae|Die From A Broken Heart
+66|DJ Khaled  and  Drake|Popstar
+67|Mariah Carey|All I Want For Christmas Is You
+68|Lee Brice|One Of Them Girls
+69|Sam Hunt|Hard To Forget
+70|Luke Bryan|One Margarita
+71|Lil Nas X|Panini
+72|Young Thug  and  Gunna|Hot
+73|Carly Pearce and  Lee Brice|I Hope You're Happy Now
+74|Lil Baby|Emotionally Scarred
+75|YNW Melly and  Juice WRLD|Suicidal
+76|Lil Baby|The Bigger Picture
+77|Jonas Brothers|Only Human
+78|Pop Smoke  and  50 Cent and  Roddy Ricch|The Woo
+79|Lil Baby|Sum 2 Prove
+80|Ariana Grande and  Justin Bieber|Stuck With U
+81|Pop Smoke  and  Lil Tjay|Mood Swings
+82|Halsey|You Should Be Sad
+83|Pop Smoke|Dior
+84|BENEE  and  Gus Dapperton|Supalonely
+85|Luke Combs|Even Though I'm Leaving
+86|THE SCOTTS, Travis Scott and  Kid Cudi|The Scotts
+87|Doja Cat and  Tyga|Juicy
+88|Kane Brown With Swae Lee and  Khalid|Be Like That
+89|Kane Brown|Homesick
+90|Rod Wave  and  ATR Son Son|Rags2Riches
+91|Miranda Lambert|Bluebird
+92|Juice WRLD|Wishing Well
+93|Luke Combs  and  Eric Church|Does To Me
+94|Jhene Aiko|P*$$y Fairy (OTW)
+95|Surf Mesa  and  Emilee|ily
+96|Morgan Wallen|More Than My Hometown
+97|Luke Combs|Lovin' On You
+98|Moneybagg Yo|Said Sum
+99|H.E.R.  and  YG|Slide
+100|NLE Choppa  and  Roddy Ricch|Walk Em Down
