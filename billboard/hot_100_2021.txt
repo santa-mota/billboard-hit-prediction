@@ -1,0 +1,101 @@
+position,artist,song
+Levitating|Dua Lipa|1
+Save Your Tears|The Weeknd and  Ariana Grande|2
+Blinding Lights|The Weeknd|3
+Mood|24kGoldn  and  iann dior|4
+Good 4 U|Olivia Rodrigo|5
+Kiss Me More|Doja Cat  and  SZA|6
+Leave The Door Open|Silk Sonic (Bruno Mars and  Anderson .Paak)|7
+Drivers License|Olivia Rodrigo|8
+Montero (Call Me By Your Name)|Lil Nas X|9
+Peaches|Justin Bieber  and  Daniel Caesar and  Giveon|10
+Butter|BTS|11
+Stay|The Kid LAROI and  Justin Bieber|12
+Deja Vu|Olivia Rodrigo|13
+Positions|Ariana Grande|14
+Bad Habits|Ed Sheeran|15
+Heat Waves|Glass Animals|16
+Without You|The Kid LAROI|17
+Forever After All|Luke Combs|18
+Go Crazy|Chris Brown and  Young Thug|19
+Astronaut In The Ocean|Masked Wolf|20
+34+35|Ariana Grande Feat. Doja Cat and  Megan Thee Stallion|21
+What You Know Bout Love|Pop Smoke|22
+My Ex's Best Friend|Machine Gun Kelly X blackbear|23
+Industry Baby|Lil Nas X and  Jack Harlow|24
+Therefore I Am|Billie Eilish|25
+Up|Cardi B|26
+Fancy Like|Walker Hayes|27
+Dakiti|Bad Bunny and  Jhay Cortez|28
+Best Friend|Saweetie  and  Doja Cat|29
+Rapstar|Polo G|30
+Heartbreak Anniversary|Giveon|31
+For The Night|Pop Smoke  and  Lil Baby and  DaBaby|32
+Calling My Phone|Lil Tjay  and  6LACK|33
+Beautiful Mistakes|Maroon 5  and  Megan Thee Stallion|34
+Holy|Justin Bieber  and  Chance The Rapper|35
+On Me|Lil Baby|36
+You Broke Me First.|Tate McRae|37
+Traitor|Olivia Rodrigo|38
+Back In Blood|Pooh Shiesty  and  Lil Durk|39
+I Hope|Gabby Barrett  and  Charlie Puth|40
+Dynamite|BTS|41
+Wockesha|Moneybagg Yo|42
+You Right|Doja Cat and  The Weeknd|43
+Beat Box|SpotemGottem  and  Pooh Shiesty Or DaBaby|44
+Laugh Now Cry Later|Drake  and  Lil Durk|45
+Need To Know|Doja Cat|46
+Wants And Needs|Drake  and  Lil Baby|47
+Way 2 Sexy|Drake  and  Future and  Young Thug|48
+Telepatia|Kali Uchis|49
+Whoopty|CJ|50
+Lemonade|Internet Money and  Gunna  and  Don Toliver and  NAV|51
+Good Days|SZA|52
+Starting Over|Chris Stapleton|53
+Body|Megan Thee Stallion|54
+Willow|Taylor Swift|55
+Bang!|AJR|56
+Better Together|Luke Combs|57
+You're Mines Still|Yung Bleu  and  Drake|58
+Every Chance I Get|DJ Khaled  and  Lil Baby and  Lil Durk|59
+Essence|Wizkid  and  Justin Bieber and  Tems|60
+Chasing After You|Ryan Hurd With Maren Morris|61
+The Good Ones|Gabby Barrett|62
+Leave Before You Love Me|Marshmello X Jonas Brothers|63
+Glad You Exist|Dan + Shay|64
+Lonely|Justin Bieber and  benny blanco|65
+Beggin'|Maneskin|66
+Streets|Doja Cat|67
+What's Next|Drake|68
+Famous Friends|Chris Young + Kane Brown|69
+Lil Bit|Nelly and  Florida Georgia Line|70
+Thot Shit|Megan Thee Stallion|71
+Late At Night|Roddy Ricch|72
+Kings & Queens|Ava Max|73
+Anyone|Justin Bieber|74
+Track Star|Mooski|75
+Time Today|Moneybagg Yo|76
+Cry Baby|Megan Thee Stallion  and  DaBaby|77
+All I Want For Christmas Is You|Mariah Carey|78
+No More Parties|Coi Leray  and  Lil Durk|79
+What's Your Country Song|Thomas Rhett|80
+One Too Many|Keith Urban Duet With P!nk|81
+Arcade|Duncan Laurence|82
+Yonaguni|Bad Bunny|83
+Good Time|Niko Moon|84
+If I Didn't Love You|Jason Aldean and  Carrie Underwood|85
+Knife Talk|Drake  and  21 Savage and  Project Pat|86
+pov|Ariana Grande|87
+Just The Way|Parmalee x Blanco Brown|88
+Take My Breath|The Weeknd|89
+We're Good|Dua Lipa|90
+Hell Of A View|Eric Church|91
+Rockin' Around The Christmas Tree|Brenda Lee|92
+Put Your Records On|Ritt Momney|93
+Happier Than Ever|Billie Eilish|94
+Single Saturday Night|Cole Swindell|95
+Things A Man Oughta Know|Lainey Wilson|96
+Throat Baby (Go Baby)|BRS Kash|97
+Tombstone|Rod Wave|98
+Drinkin' Beer. Talkin' God. Amen.|Chase Rice  and  Florida Georgia Line|99
+Todo de Ti|Rauw Alejandro|100
