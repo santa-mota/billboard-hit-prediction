@@ -4,4 +4,6 @@ The data was scraped from http://www.bobborst.com/popculture/top-100-songs-of-th
 
 NOTE: for 1950-1955, there are only the top 30 songs on that site.
 
+Used https://github.com/guoguo12/billboard-charts for Scraping data for 2019-2022
+
 
